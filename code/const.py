@@ -1,0 +1,15 @@
+#SIZE
+WIN_WIDTH = 576
+WIN_HEIGHT = 324
+
+#COLORS
+COLOR_ORANGE = (255, 153, 28)
+COLOR_WHITE = (255, 255, 255)
+
+#MENU
+MENU_OPTION = ("NEW GAME 1P",
+               "NEW GAME 2P - COOPERATIVE",
+               "NEW GAME 3P - COOPERATIVE",
+               "SCORE",
+               "EXIT")
+
