@@ -3,7 +3,7 @@
 
 class Menu:
     def __init__(self):
-        self.window Surface = None
+        self.window= window
 
     def run(self, ):
         pass
